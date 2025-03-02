@@ -31,7 +31,7 @@
   </a>
   <!-- Adding Supabase Logo -->
   <a href="https://supabase.io" target="_blank" rel="noreferrer"> 
-    <img src="https://supabase.io/static/logo-dark-3c4a09e84e5398f4a7d7bb774f7a3225.svg" alt="supabase" width="40" height="40"/> 
+    <img src="https://cdn.brandfetch.io/idsSceG8fK/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1668829260323" alt="supabase" width="40" height="40"/> 
   </a>
 </p>
 
