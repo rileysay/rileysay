@@ -36,19 +36,4 @@
 
 </p>
 
-<h3 align="left">About Me:</h3>
-<p>
-  I'm an aspiring full-stack developer focused on mobile app development, primarily with React Native. I enjoy building innovative applications and optimizing user experiences through clean, efficient code. Currently, I'm exploring backend services with Supabase and Firebase to create robust, real-time apps.  
-</p>
 
-<h3 align="left">What I'm Working On:</h3>
-<ul>
-  <li>React Native apps with dynamic user interfaces</li>
-  <li>Integrating cloud-based services like Firebase and Supabase</li>
-  <li>Building scalable solutions for mobile and web applications</li>
-</ul>
-
-<h3 align="left">Let's Connect:</h3>
-<p>
-  Feel free to reach out if you're interested in collaborating on projects or just want to chat about technology!
-</p>
