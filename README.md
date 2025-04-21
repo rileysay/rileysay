@@ -29,9 +29,7 @@
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> 
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://whatthelogo.com/storage/logos/adobe-xd-270211.png" alt="xd" width="40" height="40"/> 
-  </a>
+
   <!-- Adding Supabase Logo -->
 
 </p>
